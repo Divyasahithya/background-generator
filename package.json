@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyasahithya/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyasahithya/background-generator/issues"
+  },
+  "homepage": "https://github.com/Divyasahithya/background-generator#readme"
+}
